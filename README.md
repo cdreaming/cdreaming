@@ -1,9 +1,6 @@
-<!-- 顶部渐变波浪横幅 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=64&fontAlignY=38&fontColor=ffffff&animation=twinkling" width="100%" alt="header wave"/>
 </p>
-
-<!-- 打字轮播 -->
 <p align="center">
   <a href="https://github.com/cdreaming">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=NAS+%26+Linux+Ops+%F0%9F%9B%A0%EF%B8%8F;Cloud+Drive+Sync+Panels+%E2%98%81%EF%B8%8F;WireGuard+%26+Self-hosted+Tools+%F0%9F%94%90;Hermes+Agent+Ecosystem+%F0%9F%A4%96;Always+Automating+%E2%9A%99%EF%B8%8F" alt="Typing SVG"/>
